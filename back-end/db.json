@@ -1,0 +1,22 @@
+{
+  "cursos": [
+    {
+      "produto": "Huwei y10",
+      "tipo": "tecnologico",
+      "preco": 1500000,
+      "id": 1
+    },
+    {
+      "produto": "iphone x",
+      "tipo": "tecnologico",
+      "preco": 3000000,
+      "id": 2
+    },
+    {
+      "produto": "moto g6",
+      "tipo": "tecnologico",
+      "preco": 580000,
+      "id": 3
+    }
+  ]
+}
